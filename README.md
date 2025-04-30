@@ -1,4 +1,4 @@
-🎯 Monty Hall Simulation in Python
+# 🎯 Monty Hall Simulation in Python
 A simple Python script that simulates the famous Monty Hall problem to demonstrate the counterintuitive probabilities behind the "switch or stay" game show strategy.
 
 🧠 What is the Monty Hall Problem?
